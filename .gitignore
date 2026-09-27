@@ -1,0 +1,42 @@
+# PropForma Public Showcase - Security & Privacy Constraints
+
+# Environment & Secrets
+.env*
+*.env
+*.pem
+*.key
+*.cert
+*.pfx
+*.credentials
+
+# Dependencies & Build Output
+node_modules/
+dist/
+build/
+coverage/
+*.log
+*.zip
+*.crx
+*.xlsx
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Source code isolation: strictly disallow source code files in public docs repo
+*.ts
+*.tsx
+*.jsx
+*.mjs
+*.cjs
+*.py
+*.go
+*.rs
+*.java
+*.c
+*.cpp
+*.h
