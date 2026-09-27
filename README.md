@@ -14,7 +14,7 @@
 
 ---
 
-<img src="assets/showcase_banner.jpg" alt="PropForma Lens Institutional Model Showcase" width="100%" style="border-radius: 12px; margin: 20px 0;" />
+<img src="assets/cws_marquee_banner_1400x560.png" alt="PropForma Lens Institutional Model Showcase" width="100%" style="border-radius: 12px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 
 </div>
 
@@ -30,24 +30,45 @@ While browsing any commercial property listing on LoopNet or Crexi, PropForma in
 
 ---
 
-## Visual Showcase
+## Visual Showcase & Live Integration
 
 <div align="center">
+
+### In-Browser Real Estate Triage & 1-Click Export
+*Live LoopNet integration with reactive Cap Rate, DSCR, Loan Amortization, and Cash-on-Cash Return scoreboard:*
+
+<img src="assets/cws_store_screenshot_1280x800.png" alt="PropForma Lens Live Browser Underwriting" width="100%" style="border-radius: 12px; border: 1px solid #334155; margin: 16px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" />
+
 <table>
   <tr>
     <td width="50%" align="center">
-      <b>In-Browser Real Estate Popup & Triage Scoreboard</b><br/>
-      <i>Reactive DSCR, Cap Rate, Loan Amortization & Cash-on-Cash</i><br/><br/>
+      <b>Interactive Underwriting Drawer</b><br/>
+      <i>Adjust LTV slider, interest rate & amort term in real-time</i><br/><br/>
       <img src="assets/extension_popup.png" alt="PropForma Extension Popup" width="100%" style="border-radius: 8px; border: 1px solid #e2e8f0;" />
     </td>
     <td width="50%" align="center">
-      <b>Live Commercial Listing Integration</b><br/>
-      <i>Seamless extraction across LoopNet and Crexi marketplaces</i><br/><br/>
-      <img src="assets/live_loopnet_listing.png" alt="Live LoopNet Integration" width="100%" style="border-radius: 8px; border: 1px solid #e2e8f0;" />
+      <b>Institutional 3-Sheet Excel Pro Forma</b><br/>
+      <i>Wall Street formatting with live =PMT and dynamic compounding</i><br/><br/>
+      <img src="assets/showcase_banner.jpg" alt="Institutional Excel Model" width="100%" style="border-radius: 8px; border: 1px solid #e2e8f0;" />
     </td>
   </tr>
 </table>
 </div>
+
+---
+
+## Chrome Web Store Publishing Assets
+
+The repository includes pre-sized, compliance-ready visual assets for the Chrome Web Store Developer Console:
+
+| Asset Type | Dimensions | Preview / File Path | Status |
+| :--- | :--- | :--- | :--- |
+| **Store Icon** | 128 × 128 px | [`assets/icon_128.png`](assets/icon_128.png) | Ready for Upload |
+| **Store Screenshot** | 1280 × 800 px | [`assets/cws_store_screenshot_1280x800.png`](assets/cws_store_screenshot_1280x800.png) | Ready for Upload |
+| **Marquee Promo Tile** | 1400 × 560 px | [`assets/cws_marquee_banner_1400x560.png`](assets/cws_marquee_banner_1400x560.png) | Ready for Upload |
+| **Small Promo Tile** | 440 × 280 px | [`assets/cws_small_promo_440x280.png`](assets/cws_small_promo_440x280.png) | Ready for Upload |
+| **Product Showcase Banner** | 1600 × 900 px | [`assets/propforma_product_banner.png`](assets/propforma_product_banner.png) | Ready for Marketing |
+
 
 ---
 
